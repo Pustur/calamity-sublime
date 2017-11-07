@@ -1,0 +1,14 @@
+{
+  "name": "calamity-sublime",
+  "version": "1.0.0",
+  "description": "A purple dark theme with medium to high contrast",
+  "author": {
+    "name": "Loris Bettazza",
+    "url": "https://github.com/Pustur",
+    "email": "loris.bettazza@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/Pustur/calamity-sublime"
+  },
+  "license": "MIT"
+}
