@@ -166,7 +166,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string> underline</string>
+				<string>underline</string>
 			</dict>
 		</dict>
 	</array>
