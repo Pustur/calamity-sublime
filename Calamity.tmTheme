@@ -63,7 +63,7 @@
 			<key>name</key>
 			<string>Red</string>
 			<key>scope</key>
-			<string>variable,support.variable,entity.name.tag.yaml,constant.character.entity.html,source.css entity.name.tag.reference,beginning.punctuation.definition.list.markdown,source.css entity.other.attribute-name.parent-selector,meta.structure.dictionary.json support.type.property-name,source.json meta.structure.dictionary.json meta.structure.dictionary.key.json string.quoted.double.json,meta.property.object.js,support.module.node.js,variable.interpolation variable,meta.structure.dictionary.key.json punctuation.definition.string.begin.json,meta.structure.dictionary.key.json punctuation.definition.string.end.json,support.type.object.dom.js</string>
+			<string>variable,support.variable,entity.name.tag.yaml,constant.character.entity.html,source.css entity.name.tag.reference,beginning.punctuation.definition.list.markdown,source.css entity.other.attribute-name.parent-selector,meta.structure.dictionary.json support.type.property-name,source.json meta.structure.dictionary.json meta.structure.dictionary.key.json string.quoted.double.json,meta.property.object.js,support.module.node.js,variable.interpolation variable,meta.structure.dictionary.key.json punctuation.definition.string.begin.json,meta.structure.dictionary.key.json punctuation.definition.string.end.json,support.type.object.dom.js,markup.deleted</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -85,7 +85,7 @@
 			<key>name</key>
 			<string>Yellow</string>
 			<key>scope</key>
-			<string>markup.list,text.xml string,entity.name.type,support.function,text.html string,meta.at-rule.extend,entity.name.function,entity.other.inherited-class,entity.other.keyframe-offset.css,text.html.markdown string.quoted,meta.function-call.generic.python,meta.at-rule.extend support.constant,entity.other.attribute-name.class.jade,source.css entity.other.attribute-name,text.xml punctuation.definition.string,text.html punctuation.definition.string,variable.function.js,source.scss entity.other.attribute-name,entity.other.attribute-name.class.pug,support.function.construct.php</string>
+			<string>markup.list,text.xml string,entity.name.type,support.function,text.html string,meta.at-rule.extend,entity.name.function,entity.other.inherited-class,entity.other.keyframe-offset.css,text.html.markdown string.quoted,meta.function-call.generic.python,meta.at-rule.extend support.constant,entity.other.attribute-name.class.jade,source.css entity.other.attribute-name,text.xml punctuation.definition.string,text.html punctuation.definition.string,variable.function.js,source.scss entity.other.attribute-name,entity.other.attribute-name.class.pug,support.function.construct.php, meta.diff,meta.diff.header</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -129,7 +129,7 @@
 			<key>name</key>
 			<string>Blue</string>
 			<key>scope</key>
-			<string>string.regexp</string>
+			<string>string.regexp,markup.changed</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -151,7 +151,7 @@
 			<key>name</key>
 			<string>Green</string>
 			<key>scope</key>
-			<string>string,text.html.php string,markup.inline.raw,punctuation.definition.string,punctuation.definition.markdown,text.html meta.embedded source.js string,text.html.php punctuation.definition.string,text.html meta.embedded source.js punctuation.definition.string,meta.at-rule.import.scss,source.php string,source.php punctuation.definition.string.begin.php,source.php punctuation.definition.string.end.php</string>
+			<string>string,text.html.php string,markup.inline.raw,punctuation.definition.string,punctuation.definition.markdown,text.html meta.embedded source.js string,text.html.php punctuation.definition.string,text.html meta.embedded source.js punctuation.definition.string,meta.at-rule.import.scss,source.php string,source.php punctuation.definition.string.begin.php,source.php punctuation.definition.string.end.php,markup.inserted</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
